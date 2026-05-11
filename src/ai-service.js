@@ -5,7 +5,7 @@
 const AIService = (function () {
   // ── Default config ──────────────────────────────
   const DEFAULTS = {
-    apiKey: 'sk-80436e033aea496d89e51bd168469534',
+    apiKey: '',
     baseUrl: 'https://api.deepseek.com',
     model: 'deepseek-v4-pro',
     models: [
